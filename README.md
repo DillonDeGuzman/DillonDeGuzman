@@ -40,7 +40,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DillonDeGuzman/DillonDeGuzman/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/DillonDeGuzman/DillonDeGuzman/snake.svg" alt="Snake animation" />
 </div>
 
 ---
